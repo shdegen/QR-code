@@ -1,2 +1,3 @@
 # QR-code
-Frontend Mentor
+#Frontend Mentor
+#This is my second project 
